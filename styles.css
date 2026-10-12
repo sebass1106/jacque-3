@@ -10,7 +10,8 @@ h1{
 }
 .inicio{
   background-color: #FFF8E7;
-  audio{
+ 
+audio{
     dispay: block;
     margin: auto;
   }
