@@ -3,7 +3,10 @@ body{
   font-weight: 800;
   font-stretch: condensed;
   font-size: 22px;
+  font-color: #FFFFFF;
 }
 h1{
   text-align: center;
 }
+.inicio{
+  background-color: #FFF8E7;
