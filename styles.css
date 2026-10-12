@@ -11,7 +11,8 @@ h1{
 .inicio{
   background-color: #FFF8E7;
  
-audio{
+  .reproductor1{
     dispay: block;
     margin: auto;
+    backgroung: #FFFFFF;
   }
