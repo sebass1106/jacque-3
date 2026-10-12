@@ -4,3 +4,6 @@ body{
   font-weight: 800;
   font-stretch: condensed;
 }
+h1{
+  text-align: center;
+}
