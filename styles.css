@@ -4,12 +4,10 @@ body{
   font-stretch: condensed;
   font-size: 22px;
   font-color: #FFFFFF;
+  background-color: #FFF8E7;
 }
 h1{
   text-align: center;
-}
-.inicio{
-  background-color: #FFF8E7;
 }
  
 .reproductor1{
