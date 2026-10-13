@@ -11,8 +11,9 @@ h1{
 }
  
 .reproductor1{
-display: flex;
-  justify-content: center;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .fecha-14-02-26{
   background-color: #48E120;
