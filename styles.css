@@ -36,3 +36,6 @@ audio {
   margin: 0 auto;
   width: 50%;
 }
+body::-webkit-scrollbar {
+  display: none;
+}
