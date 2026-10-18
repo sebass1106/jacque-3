@@ -3,7 +3,7 @@ body{
   font-weight: 800;
   font-stretch: condensed;
   font-size: 22px;
-  font-color: #FFFFFF;
+  color: #FFFFFF;
   background-color: #FFF8E7;
 }
 h1{
@@ -41,5 +41,5 @@ body::-webkit-scrollbar {
 }
 .fecha-14-02-26-2-{
   background-color: #000000;
-  font-color: #FFFFFF;
+  color: #FFFFFF;
 }
