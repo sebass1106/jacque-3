@@ -53,7 +53,7 @@ body::-webkit-scrollbar {
 details > article{
   opacity: 0;
   transform: translateY(-10px);
-  transition: opacity 0.3s ease-out, transform 0.3 ease-out;
+  transition: opacity 0.3s ease-out, transform 0.3s ease-out;
 }
 details[open] > article{
   opacity:1;
