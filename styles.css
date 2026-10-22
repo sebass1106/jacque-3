@@ -61,7 +61,7 @@ details[open] > article{
 }
 @starting-style{
   details[open] > article{
-  opacity:1;
+  opacity:0;
   transform: translateY(0);
 }
 }
