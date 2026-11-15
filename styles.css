@@ -33,7 +33,7 @@ div {
 audio {
   display: block;
   margin: 0 auto;
-  width: 50%;
+  width: 75%;
 }
 body::-webkit-scrollbar {
   display: none;
